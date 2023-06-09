@@ -1,0 +1,32 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+    
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    bottom: 30px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+     width: 90%;
+    height: 85%;
+    padding: 5px;
+    /* background-color: rgba(0, 0, 0, 0.5); Adjust the overlay background color and opacity as needed */
+  } */
+  
+  .icon {
+    color: #fff; /* Set the icon color */
+    font-size: 40px; /* Set the icon size */
+    margin-right: 8px; /* Adjust the spacing between the icon and text */
+  }
+  
+  .text {
+    color: #fff; /* Set the text color */
+    font-size: 16px; /* Set the text size */
+    font-weight: bold; /* Set the text weight if desired */
+  }
+  
